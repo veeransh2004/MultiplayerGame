@@ -24,4 +24,4 @@ java GameServer
 ```bash
 java GameClient
 ```
-To add multiple players we can create a new Tab and repeat step 4
+To add multiple players we can go to a new terminal and repeat step 4.
